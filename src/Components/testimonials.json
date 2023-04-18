@@ -1,0 +1,20 @@
+ [
+    {
+        "comment": "Lorem ipsum dolor sit amet, consectetur vel culpa sequi perspiciatis porro repudiandae est doloremque corporis similique nam, tempora dicta, sit cum ipsam? Exercitationem, quod?",
+        "name": "Sean Parker",
+        "Image": "https://ecommerce-website-ak.netlify.app/images/user-3.png",
+        "Rating": "5"
+    },
+    {
+        "comment": "Lorem ipsum dolor sit amet, consectetur vel culpa sequi perspiciatis porro repudiandae est doloremque corporis similique nam, tempora dicta, sit cum ipsam? Exercitationem, quod?",
+        "name": "Mike Smith",
+        "Image": "https://ecommerce-website-ak.netlify.app/images/user-2.png",
+        "Rating": "3"
+    },
+    {
+        "comment": "Lorem ipsum dolor sit amet, consectetur vel culpa sequi perspiciatis porro repudiandae est doloremque corporis similique nam, tempora dicta, sit cum ipsam? Exercitationem, quod?",
+        "name": "Mabel Joe",
+        "Image": "https://ecommerce-website-ak.netlify.app/images/user-1.png",
+        "Rating": "4.5"
+    }
+ ]
