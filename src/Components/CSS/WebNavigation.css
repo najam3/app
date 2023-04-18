@@ -1,0 +1,14 @@
+.nav-item a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.nav-item  .active {
+    border-bottom: 3px solid #ff523b !important;
+    
+}
+
+.foo {
+    padding: 15em 0;
+}
